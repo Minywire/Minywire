@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @niamhlwilson
-- 👀 I’m interested in software development
+- 👋 Hi, I’m Niamh Wilson
+- 👀 I’m interested in software development and computer graphics
 - 🌱 I am currently studying software development and computer science at university!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
