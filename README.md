@@ -1,3 +1,7 @@
+## Hi! My name is Niamh
+
+
+
 - 👋 Hi, I’m Niamh Wilson
 - 👀 I’m interested in software development and computer graphics
 - 🌱 I am currently studying software development and computer science at university!
