@@ -2,6 +2,9 @@
 
 
 
+
+[![Niamh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minywire)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m Niamh Wilson
 - 👀 I’m interested in software development and computer graphics
 - 🌱 I am currently studying software development and computer science at university!
