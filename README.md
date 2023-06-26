@@ -1,4 +1,4 @@
-## Hi! My name is Niamh
+## Hi! My name is Niamh 👋
 
 
 
